@@ -4,5 +4,4 @@ function theBeatlesPlay(arrayOfMusicians, arrayOfInstruments) {
     newArray[i] = arrayOfMusicians[i] + " plays " + arrayOfInstruments[i]
   }
   return newArray
-  
 }
